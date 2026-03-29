@@ -35,14 +35,15 @@ The application demonstrates:
 ├── style.css
 ├── script.js
 └── README.md
-
-How to Run
+``` 
+## How to Run
 
 Download or clone the repository
 Open index.html in your browser
 Fill in the form
 Click Calculate Price
-Learning Purpose
+
+## Learning Purpose
 
 This project was created as part of a university frontend assignment to practice:
 
@@ -57,7 +58,7 @@ Show a detailed price breakdown
 Refactor calculation logic into reusable functions
 Add mobile-first UI improvements
 
-Author
+## Author
 Mustafa Kamal Zada
 Computer Science IT Student
 Astana IT University
